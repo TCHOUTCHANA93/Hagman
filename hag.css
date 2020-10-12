@@ -1,0 +1,59 @@
+.mil{
+    height: 50px;
+}
+
+body{
+background :url(assise.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+html{
+    min-height:100%;
+    background:linear-gradient(rgba(161, 156, 149, 0.3),rgba(236, 236, 236, 0.3));
+    background-size:cover;
+}
+
+.pick{
+    text-align: center;
+    height: 500px;
+    
+    position: relative;
+}
+.pick img{
+    height: 500px;
+    position: absolute;
+    left: 50px;
+    widows: 100%;
+
+    
+}
+#wordSpotlight{
+    font-size: 2em;
+    color: rgb(139, 61, 32);
+}
+
+.align{
+    text-align: center;
+}
+.text-center{
+    color: rgb(255, 255, 255);
+}
+.kyb{
+    text-align: center;
+}
+.Wrong{
+    border: 1px solid rgba(255, 255, 255, 0.164);
+    background-color: rgb(131, 59, 26);
+    color: white;
+    padding: 10px;
+}
+.down{
+    height: 300px;
+}
+h3{
+    background-color: rgb(100, 105, 112);
+}
+#keybord{
+    font-size: 20px;
+    color: rgb(139, 61, 32);
+}
