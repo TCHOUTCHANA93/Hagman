@@ -55,5 +55,6 @@ h3{
 }
 #keybord{
     font-size: 20px;
-    color: rgb(139, 61, 32);
+    color:  rgb(243, 243, 243);
+    background-color: rgb(139, 61, 32);
 }
